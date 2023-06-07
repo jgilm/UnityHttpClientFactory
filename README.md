@@ -15,5 +15,5 @@ This site section of the Microsoft documentation is applicable:
 - https://learn.microsoft.com/en-us/dotnet/architecture/microservices/implement-resilient-applications/use-httpclientfactory-to-implement-resilient-http-requests#httpclient-lifetimes
 - https://learn.microsoft.com/en-us/aspnet/core/fundamentals/http-requests?view=aspnetcore-7.0
 
-However, everything related to typed clients and `IServiceCollection` are not applicable to this script, as it is just the bear minimum to properly use HttpClient without all of the
+However, everything related to typed clients and `IServiceCollection` are not applicable to this script, as it is just the bare minimum to properly use HttpClient without all of the
 drawbacks listed in Bill's post.
